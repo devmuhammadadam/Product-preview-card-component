@@ -16,7 +16,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Demo
 
-https://muhammad-abdusalam.github.io/Product-preview-card-component/
+https://devmuhammadadam.github.io/Product-preview-card-component/
 
 ### Built with ⚒️
 
@@ -26,4 +26,4 @@ https://muhammad-abdusalam.github.io/Product-preview-card-component/
 ### Author
 
 - Frontend Mentor - [@Muhammad-adam778](https://www.frontendmentor.io/profile/Muhammad-adam778)
-- Linkedin - [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
+- Linkedin - [@devmuhammadadam](https://www.linkedin.com/in/devmuhammadadam)
